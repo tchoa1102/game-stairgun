@@ -1,0 +1,6 @@
+[submodule "Game_StairGun__Client_Phaser"]
+	path = Game_StairGun__Client_Phaser
+	url = https://github.com/tchoa1593/Game_StairGun__Client_Phaser.git
+[submodule "StairGunGame__API_Node"]
+	path = StairGunGame__API_Node
+	url = https://github.com/tchoa1593/StairGunGame__API_Node.git
